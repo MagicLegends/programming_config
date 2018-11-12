@@ -9,4 +9,5 @@ ln -f -s ${PROJ_BASE}/screen/.screenrc ~/.screenrc
 ln -f -s ${PROJ_BASE}/tmux/.tmux.conf ~/.tmux.conf
 
 ln -f -s ${PROJ_BASE}/vim/.vimrc ~/.vimrc
+ln -F -s ${PROJ_BASE}/vim/.vim ~/.vim
 
