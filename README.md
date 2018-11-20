@@ -21,12 +21,17 @@
 
 ### iTerm
 
+> Official
+* https://www.iterm2.com/
+
 > Built-in
 * [Badge](https://www.iterm2.com/documentation-badges.html) - A large text label that appears in the top right of a terminal session to provide dynamic status
 * [Shell Intergation](https://www.iterm2.com/documentation-shell-integration.html) - Integrated with the unix shell, keep track of command history, current working directory ……
+  * Non-compatible with Secure-CRT
 
 > Plugins
 * [sshpass]() - Login without enter password
+  * Do it with raw ssh command to agree the connection access first
 * [itermocil](https://github.com/TomAnthony/itermocil) - To initialized project based terminal usage, NOT support self-defined layout
 
 > References
